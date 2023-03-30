@@ -1,0 +1,24 @@
+.image{
+    border-radius: 15px; 
+  }
+  #food{
+    margin-top: 50px;
+    margin-bottom:200pxpx; 
+    margin-left: 15px;
+    
+  }
+  #food button{
+   background-color:black;
+   color: aliceblue;
+   opacity: 0.5;
+  }
+  .foot{
+    background-color: rgb(235, 183, 124);
+    line-height: 29px;
+   text-align: center;
+   opacity:0.9;
+  }
+  #a:hover{
+    color: rgb(27, 11, 11);
+    background-color: rgb(249, 215, 18);
+  }
